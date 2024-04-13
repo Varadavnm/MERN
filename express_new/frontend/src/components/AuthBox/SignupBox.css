@@ -1,0 +1,12 @@
+.already-account{
+    font-size: 0.7rem;
+    
+}
+.already-account i{
+    color: rgb(127, 180, 255);
+    font-style: italic;
+}
+.already-account i:hover{
+    text-decoration: underline;
+    
+}

@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "paths": {
-      "@Assets/*": ["./src/Assets/*"]
-    }
-  },
-  "include": ["src/**/*"]
-}
